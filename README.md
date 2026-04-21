@@ -192,9 +192,10 @@ Create new charts using Plotly in the respective tab sections.
 ## 📁 Project Structure
 
 ```
-apl-logistics-dashboard/
+[apl-logistics-dashboard/
 │
 ├── app.py                  # Main application file
+├── LICENSE                 # Tridev Pal
 ├── requirements.txt        # Python dependencies
 ├── python-version         # Python version specification
 ├── .gitignore            # Git ignore rules
@@ -222,7 +223,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/danem47531-byte/-APL-Logistics/blob/main/LICENSE) file for details.
 
 ## 👤 Author
 
