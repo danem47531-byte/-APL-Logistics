@@ -23,7 +23,7 @@ The APL Logistics Dashboard is a powerful data analytics application designed to
 
 ## 🚀 Live Demo
 
-(https://ffdhr6abvccshxb8sxxciq.streamlit.app/)
+https://ffdhr6abvccshxb8sxxciq.streamlit.app/
 
 ## 🛠️ Tech Stack
 
