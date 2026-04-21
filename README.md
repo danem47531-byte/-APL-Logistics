@@ -228,7 +228,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [danem47531-byte](https://github.com/danem47531-byte)
-- LinkedIn:  [Your LinkedIn]([https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/tridev-pal-74575a379/))
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/tridev-pal-74575a379/))
+
 
 ## 🙏 Acknowledgments
 
