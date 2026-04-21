@@ -23,11 +23,7 @@ The APL Logistics Dashboard is a powerful data analytics application designed to
 
 ## 🚀 Live Demo
 
-[Add your deployed Streamlit app URL here]
-
-## 📸 Screenshots
-
-[Add screenshots of your dashboard here]
+[(https://ffdhr6abvccshxb8sxxciq.streamlit.app/)]
 
 ## 🛠️ Tech Stack
 
@@ -48,7 +44,7 @@ The APL Logistics Dashboard is a powerful data analytics application designed to
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/apl-logistics-dashboard.git
+git clone https://github.com/danem47531-byte/-APL-Logistics
 cd apl-logistics-dashboard
 ```
 
@@ -85,7 +81,7 @@ The dashboard automatically loads data from a GitHub repository. Follow these st
    - Open `app.py`
    - Locate line 98 and update the URL:
    ```python
-   GITHUB_ZIP_URL = "https://github.com/YOUR-USERNAME/YOUR-REPO/raw/main/APL_Logistics.zip"
+   GITHUB_ZIP_URL = "https://github.com/danem47531-byte/-APL-Logistics/raw/main/APL_Logistics.zip"
    ```
 
 ### Required Data Columns
@@ -231,8 +227,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+- GitHub: [danem47531-byte](https://github.com/danem47531-byte)
+- LinkedIn: [Tridev Pal]([https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/tridev-pal-74575a379/))
 
 ## 🙏 Acknowledgments
 
@@ -242,19 +238,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue or contact [your.email@example.com](mailto:your.email@example.com)
-
-## 🗺️ Roadmap
-
-- [ ] Add user authentication
-- [ ] Implement real-time data updates
-- [ ] Add email alerts for SLA breaches
-- [ ] Create mobile-responsive design
-- [ ] Add machine learning predictions
-- [ ] Integrate with ERP systems
-- [ ] Add multi-language support
-- [ ] Create API endpoints
-
----
+For questions or feedback, please open an issue or contact [tridevpal2@gmail.com](mailto:tridevpal2@gmail.com)
 
 ⭐ **If you find this project useful, please consider giving it a star!** ⭐
